@@ -13,7 +13,7 @@ A small studio building for builders.
 
 **[ramp](https://github.com/gf-labs/ramp)** — adaptive learning mode for Claude Code: knowledge graphs, spaced repetition, and repo-grounded learning paths. Run `/ramp:up` in any repo.
 
-**[claude-toolbox](https://github.com/gf-labs/claude-toolbox)** — session-lifecycle commands (`/tools:*`), hooks, and a thread-extraction pipeline that carries understanding across sessions.
+**[claude-toolbox](https://github.com/gf-labs/claude-toolbox)** — session-lifecycle commands (`/tools:*`), hooks, and a `sit-rep` pipeline that keeps the thread across sessions — so understanding compounds instead of resetting.
 
 **[gfl-marketplace](https://github.com/gf-labs/gfl-marketplace)** — the plugin marketplace distributing `ramp` and `tools`: `/plugin marketplace add gf-labs/gfl-marketplace`
 
